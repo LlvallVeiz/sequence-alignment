@@ -1,0 +1,5 @@
+pair	id_a	id_b	algorithm	matrix	score	identity_pct	similarity_pct	matches	mismatches	gap_chars	gap_opens	length
+1	dna_pair1_a	dna_pair1_b	global	DNA(+1/-1)	-1	42.86	42.86	3	4	0	0	7
+2	dna_pair2_a	dna_pair2_b	global	DNA(+1/-1)	-8	0.00	0.00	0	8	0	0	8
+3	prot_pair1_a	prot_pair1_b	global	BLOSUM62	2	30.00	30.00	3	4	3	1	10
+4	prot_pair2_a	prot_pair2_b	global	BLOSUM62	61	51.52	63.64	17	13	3	2	33

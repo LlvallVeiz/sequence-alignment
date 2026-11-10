@@ -1,0 +1,16 @@
+Smith-Waterman (local) alignment (BLOSUM62, gap open 10, extend 1)
+Score: 288
+Identity: 43.45% (63/145)  Similarity: 60.69% (88/145)  Gaps: 8 chars in 3 opening(s)  Length: 145
+
+HBA_HUMAN       1  LSPADKTNVKAAWGKVGAHAGEYGAEALERMFLSFPTTKTYFPHF-DLS-----HGSAQV  54
+                   |:| :|: | | ||||  :  | | ||| |: : :| |: :|  | |||      |: :|
+HBB_HUMAN       1  LTPEEKSAVTALWGKV--NVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKV  58
+
+HBA_HUMAN      55  KGHGKKVADALTNAVAHVDDMPNALSALSDLHAHKLRVDPVNFKLLSHCLLVTLAAHLPA  114
+                   | |||||  | :: :||:|::    : ||:||  || ||| ||:|| : |:  || |   
+HBB_HUMAN      59  KAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGK  118
+
+HBA_HUMAN     115  EFTPAVHASLDKFLASVSTVLTSKY  139
+                   |||| | |:  | :| |:  |  ||
+HBB_HUMAN     119  EFTPPVQAAYQKVVAGVANALAHKY  143
+

@@ -1,0 +1,6 @@
+BLOSUM45     Henikoff & Henikoff (1992), 45% identity clustering; for distant homologs
+BLOSUM62     Henikoff & Henikoff (1992), 62% identity clustering; general-purpose default
+BLOSUM80     Henikoff & Henikoff (1992), 80% identity clustering; for closely related sequences
+PAM250       Dayhoff, Schwartz & Orcutt (1978); 250 accepted point mutations per 100 residues
+DNA(+1/-1)   nucleotide match=+1 mismatch=-1, N scores 0
+DNA(+1/0)    nucleotide match=+1 mismatch=+0, N scores 0

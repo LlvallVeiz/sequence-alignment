@@ -1,0 +1,16 @@
+Needleman-Wunsch (global) alignment (BLOSUM62, gap open 10, extend 1)
+Score: 717
+Identity: 99.30% (141/142)  Similarity: 99.30% (141/142)  Gaps: 1 chars in 1 opening(s)  Length: 142
+
+seq1            1  MVLSPADKTNVKAAWGKVGAHAGEYGAEALERMFLSFPTTKTYFPHFDLSHGSAQVKGHG  60
+                    |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+seq2            1  -VLSPADKTNVKAAWGKVGAHAGEYGAEALERMFLSFPTTKTYFPHFDLSHGSAQVKGHG  59
+
+seq1           61  KKVADALTNAVAHVDDMPNALSALSDLHAHKLRVDPVNFKLLSHCLLVTLAAHLPAEFTP  120
+                   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+seq2           60  KKVADALTNAVAHVDDMPNALSALSDLHAHKLRVDPVNFKLLSHCLLVTLAAHLPAEFTP  119
+
+seq1          121  AVHASLDKFLASVSTVLTSKYR  142
+                   ||||||||||||||||||||||
+seq2          120  AVHASLDKFLASVSTVLTSKYR  141
+

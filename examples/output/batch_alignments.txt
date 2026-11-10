@@ -1,0 +1,36 @@
+=== Pair 1: dna_pair1_a vs dna_pair1_b ===
+Needleman-Wunsch (global) alignment (DNA(+1/-1), gap open 5, extend 1)
+Score: -1
+Identity: 42.86% (3/7)  Similarity: 42.86% (3/7)  Gaps: 0 chars in 0 opening(s)  Length: 7
+
+dna_pair1_a     1  GATTACA  7
+                   |  | | 
+dna_pair1_b     1  GCATGCT  7
+
+=== Pair 2: dna_pair2_a vs dna_pair2_b ===
+Needleman-Wunsch (global) alignment (DNA(+1/-1), gap open 5, extend 1)
+Score: -8
+Identity: 0.00% (0/8)  Similarity: 0.00% (0/8)  Gaps: 0 chars in 0 opening(s)  Length: 8
+
+dna_pair2_a     1  ACGTACGT  8
+                           
+dna_pair2_b     1  TTACGTAA  8
+
+=== Pair 3: prot_pair1_a vs prot_pair1_b ===
+Needleman-Wunsch (global) alignment (BLOSUM62, gap open 10, extend 1)
+Score: 2
+Identity: 30.00% (3/10)  Similarity: 30.00% (3/10)  Gaps: 3 chars in 1 opening(s)  Length: 10
+
+prot_pair1_a    1  HEAGAWGHEE  10
+                       ||   |
+prot_pair1_b    1  ---PAWHEAE  7
+
+=== Pair 4: prot_pair2_a vs prot_pair2_b ===
+Needleman-Wunsch (global) alignment (BLOSUM62, gap open 10, extend 1)
+Score: 61
+Identity: 51.52% (17/33)  Similarity: 63.64% (21/33)  Gaps: 3 chars in 2 opening(s)  Length: 33
+
+prot_pair2_a    1  MV-LSPADKTNVKAAWGKVGAHAGEYGAEALER  32
+                   || |:| :|: | | ||||  :  | | ||| |
+prot_pair2_b    1  MVHLTPEEKSAVTALWGKV--NVDEVGGEALGR  31
+
