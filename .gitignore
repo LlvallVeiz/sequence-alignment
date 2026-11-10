@@ -1,0 +1,18 @@
+# Binaries and build output
+seqalign
+*.exe
+*.out
+
+# Go module cache artifacts (none expected; safety net)
+/tmp/
+
+# OS and editor files
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+
+# Python bytecode (reference script)
+__pycache__/
+*.pyc
